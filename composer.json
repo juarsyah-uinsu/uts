@@ -1,0 +1,19 @@
+{
+    "name": "juarsyah-uinsu/uts",
+    "description": "UTS Mata Kuliah Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.0",
+        "filp/whoops": "^2.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "JuarsyahUinsu\\Uts\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juarsyah"
+        }
+    ]
+}
